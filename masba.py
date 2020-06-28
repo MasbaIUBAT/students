@@ -19,6 +19,7 @@ class Employee:
             return True
 #Raghib_Shahriar = Employee('harry','jack',4000)
 print(Employee.isopen('sunday'))
+print('bangladeh')
 
 
 
