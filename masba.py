@@ -20,6 +20,7 @@ class Employee:
 #Raghib_Shahriar = Employee('harry','jack',4000)
 print(Employee.isopen('sunday'))
 print('bangladeh')
+hfkjfhjfhdshfdsjhf
 
 
 
